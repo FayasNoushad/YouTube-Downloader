@@ -26,10 +26,6 @@
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot"
     },
-    "BANNED_USERS": {
-      "description": "Ban Unwanted members..",
-      "required": false
-    },
     "TIME_LIMIT": {
       "description": "Set timeout for subprocess (In seconds)",
       "value": "0"
