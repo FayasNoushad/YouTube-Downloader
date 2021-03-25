@@ -15,39 +15,27 @@
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token from @botfather, as a string.",
-      "value": ""
+      "description": "Your bot token from @botfather, as a string."
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "description": "Get this value from https://my.telegram.org"
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "description": "Get this value from https://my.telegram.org"
     },
     "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "description": "allow only pre-defined users to use this bot"
     },
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
-      "value": "",
       "required": false
     },
     "TIME_LIMIT": {
       "description": "Set timeout for subprocess (In seconds)",
-      "value": "000",
-      "required": false
+      "value": "0"
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
-      "value": "",
-      "required": false
-    },
-    "HTTP_PROXY": {
-      "description": "proxy for accessing youtube-dl in GeoRestricted Areas. Get your own proxy from https://github.com/rg3/youtube-dl/issues/1091#issuecomment-230163061",
-      "value": "",
       "required": false
     }
   },
