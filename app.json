@@ -14,7 +14,7 @@
       "description": "Leave this as it is!",
       "value": "ANYTHING"
     },
-    "TG_BOT_TOKEN": {
+    "BOT_TOKEN": {
       "description": "Your bot token from @botfather, as a string."
     },
     "APP_ID": {
