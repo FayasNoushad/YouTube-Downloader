@@ -3,8 +3,10 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-Hello {} , You are warmly welcome to Leo Youtube Downloader Bot🙂 Here you can download any youtube video with custom thumbnail🙂
-හායි {} , ඔයාලව සාදරයෙන් අපේ Leo Youtube Downloader Bot වෙත පිලිගන්නව🙂 ඔයාලට මේ බොට් මගින් Custom Thumbnail එකක් සහිතව යූටියුබ් වීඩියෝ ඩවුන්ලෝඩ් කරන්න පුලුවන්🙂
+Hello {} , You are warmly welcome to Leo Youtube Downloader Bot🙂
+
+හායි {} , ඔයාලව සාදරයෙන් අපේ Leo Youtube Downloader Bot වෙත පිලිගන්නව🙂
+
 
 Made By : @naviya2🇱🇰
 Support Group : @leosupportx🇱🇰
