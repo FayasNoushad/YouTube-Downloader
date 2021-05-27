@@ -6,9 +6,9 @@ A simple YouTube downloader bot with permenent thumbnail support
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
 Please fork this repository don't import code
 Made with Python3
-(C) @FayasNoushad
+(C) @Naviya2
 Copyright permission under GNU General Public License v3.0
-License -> https://github.com/FayasNoushad/YouTube-Downloader/blob/main/LICENSE
+License -> https://github.com/Naviya2/YouTube-Downloader/blob/main/LICENSE
 ```
 
 ### Deploy 
@@ -22,7 +22,7 @@ Deploy on Heroku
 
 Deploy in your vps
 ```
-git clone https://github.com/FayasNoushad/YouTube-Downloader
+git clone https://github.com/Naviya2/YouTube-Downloader
 cd YouTube-Downloader
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -36,7 +36,7 @@ python3 bot.py
 * `BOT_TOKEN` Your bot token from @BotFather
 * `AUTH_USERS` Allow only pre-defined users to use this bot(User id දාන්න. දාන යූසර්ලට විතරයි මේ බොට් එක පාවිච්චි කරන්න පුලුවන් වෙන්නෙ) 
 * `TIME_LIMIT` For time to next process in second 
-* `UPDATE_CHANNEL` Updates channel username without '@' for force subscription
+* `UPDATE_CHANNEL` Updates channel username without '@' for force subscription (@ ලකුන නොදා යූසර්නේම් ටයිප් කරන්න)
 
 ### Requirements
 
