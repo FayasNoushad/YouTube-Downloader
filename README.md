@@ -34,7 +34,7 @@ python3 bot.py
 * `API_HASH` Your API Hash from my.telegram.org
 * `API_ID` Your API ID from my.telegram.org
 * `BOT_TOKEN` Your bot token from @BotFather
-* `AUTH_USERS` Allow only pre-defined users to use this bot
+* `AUTH_USERS` Allow only pre-defined users to use this bot(User id දාන්න. දාන යූසර්ලට විතරයි මේ බොට් එක පාවිච්චි කරන්න පුලුවන් වෙන්නෙ) 
 * `TIME_LIMIT` For time to next process in second 
 * `UPDATE_CHANNEL` Updates channel username without '@' for force subscription
 
@@ -44,13 +44,11 @@ python3 bot.py
 
 ### Accounts
 
-* [Twitter](https://twitter.com/FayasNoushad)
-* [YouTube](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ)
-* [GitHub](https://github.com/FayasNoushad)
-* [Telegram](https://telegram.me/FayasNoushad)
+* [GitHub](https://github.com/Naviya2)
+* [Telegram](https://telegram.me/naviya2)
 
 ### Credits
 
-* [Fayas Noushad](https://github.com/FayasNoushad)
+* [Naviya](https://github.com/Naviya2)
 * [Shrimadhav UK](https://github.com/SpEcHIDe)
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
