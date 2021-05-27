@@ -20,7 +20,7 @@ Support Group : @leosupportx🇱🇰
 ➠ Send /delthumb මේකෙන් ඔයාල ඇඩ් කරගත්ත Thumbnail එක අයින් කරගන්න පුලුවන්.
 
 <b><u>Show Thumbnail</u></b>
-➠ Send /showthumb මේ command එක යැවීමෙන් ඔයාල ඇඩ් කරපු thumbnail එක බලාගන්න පුලුවන්.
+➠ Send /showthumb මේ command එක යැවීමෙන් ඔයාල ඇඩ් කරපු Thumbnail එක බලාගන්න පුලුවන්.
 
 Made by @naviya2
 """
@@ -76,5 +76,5 @@ URL | newfilename | username | password"""
     NO_VOID_FORMAT_FOUND = "<code>{}</code>"
     REPORT_SITE_TEXT = "<code>Sorry not uploading in this site here because this site is reporting site.</code>"
     SOMETHING_WRONG = "<code>Something Wrong. Try again.</code>"
-    FORCE_SUBSCRIBE_TEXT = "<code>Sorry බොම්ක ඔයා අපේ චැනල් එකා තවම subscribe කරලා නැ ඒනිසා බොට් එක පාවිච්චි කරන්න දෙන්න බැ. ඒනිසා @new_ehi අපේ චැනල් එකට ගිහින් Join බටන් එක ඔබල වරෙම්🙂....</code>"
+    FORCE_SUBSCRIBE_TEXT = "<code>Sorry බොම්ක ඔයා අපේ චැනල් එකා තවම subscribe කරලා නැ ඒනිසා බොට් එක පාවිච්චි කරන්න දෙන්න බැ. ඒනිසා @new_ehi අපේ චැනල් එකට ගිහින් Join බටන් එක ඔබල වරෙම්🙂😶....</code>"
     FREE_USER_LIMIT_Q_SZE = "Sorry Friend, Free users can only 1 request per {} minutes. Please try again after {} seconds later."
