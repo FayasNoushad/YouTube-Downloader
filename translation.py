@@ -5,8 +5,6 @@ class Translation(object):
     START_TEXT = """
 Hello {} , You are warmly welcome to Leo Youtube Downloader Bot🙂
 
-හායි {} , ඔයාලව සාදරයෙන් අපේ Leo Youtube Downloader Bot වෙත පිලිගන්නව🙂
-
 
 Made By : @naviya2🇱🇰
 Support Group : @leosupportx🇱🇰
